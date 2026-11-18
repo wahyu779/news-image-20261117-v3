@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/wahyu779/news-image-20261117-v3/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261117/wahyu779/news-image-20261117-v3/reward.svg)](https://make.fun/bounty/news-image-20261117)
+
 # The Tuesday Globe — Tuesday 17 November 2026
 
 A one-image newspaper front page summing up the world's news of
